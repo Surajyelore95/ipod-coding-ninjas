@@ -1,0 +1,14 @@
+Node_module file is not uploded
+
+for this file
+create a new project
+using this command:
+
+step one
+npx create-react-app project-name
+
+step 2
+cd project-name
+
+step 3
+npm start
